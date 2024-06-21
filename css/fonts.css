@@ -1,0 +1,58 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/Roboto-Regular.eot");
+	src: url("../fonts/RobotoRegular/Roboto-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular/Roboto-Regular.woff") format("woff"),
+	url("../fonts/RobotoRegular/Roboto-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RobotoMedium"; */
+@font-face {
+	font-family: "RobotoMedium";
+	src: url("../fonts/RobotoMedium/Roboto-Medium.eot");
+	src: url("../fonts/RobotoMedium/Roboto-Medium.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoMedium/Roboto-Medium.woff") format("woff"),
+	url("../fonts/RobotoMedium/Roboto-Medium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RobotoBold"; */
+@font-face {
+	font-family: "RobotoBold";
+	src: url("../fonts/RobotoBold/Roboto-Bold.eot");
+	src: url("../fonts/RobotoBold/Roboto-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoBold/Roboto-Bold.woff") format("woff"),
+	url("../fonts/RobotoBold/Roboto-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RoadRadioBold"; */
+@font-face {
+	font-family: "RoadRadioBold";
+	src: url("../fonts/RoadRadioBold/RoadRadio-Bold.eot");
+	src: url("../fonts/RoadRadioBold/RoadRadio-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RoadRadioBold/RoadRadio-Bold.woff") format("woff"),
+	url("../fonts/RoadRadioBold/RoadRadio-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RoadRadioBlack"; */
+@font-face {
+	font-family: "RoadRadioBlack";
+	src: url("../fonts/RoadRadioBlack/RoadRadio-Black.eot");
+	src: url("../fonts/RoadRadioBlack/RoadRadio-Black.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RoadRadioBlack/RoadRadio-Black.woff") format("woff"),
+	url("../fonts/RoadRadioBlack/RoadRadio-Black.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
